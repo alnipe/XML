@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<skill01>Test theory</skill01>
+	<skill02>HTTP Methods/codes</skill02>
+	<skill03>Soap/Rest</skill03>
+	<skill04>API</skill04>
+	<skill05>Logs</skill05>
+	<skill06>sniffers</skill06>
+	<skill07>Dev Tools</skill07>
+	<skill08>Mobile Testing</skill08>
+	<skill09>ADB/XCode</skill09>
+	<skill10>Terminal Linux</skill10>
+	<skill11>bash scripts</skill11>
+	<skill12>SQL</skill12>
+</skills>
