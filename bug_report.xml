@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <bug_report>
-<Summary>COVID-19 page: The blank page is opened from link 'Promotion' in the footer</Summary>
-<STR>1. Open main page</STR>
-<STR>2. Go to footer</STR>
-<STR>3. In “Browse by Category” follow the link COVID-19</STR>
-<STR>4. Go to footer COVID-19 page</STR>
-<STR>5. In “Browse by Category” follow the link 'Promotion'</STR>
-<Result>The Вlank page is opened</Result>
-<Expected_result>The page of products with special offers is opened</Expected_result>
-<Severity>Blocker</Severity>
-<Priority>Medium</Priority>
-<Environment>"Windows 10 Pro x64 Version 10.0.19044 Build 19044, Google Chrome v.98.0.4758.102 x64"</Environment>
-<Reporter>Alex P</Reporter>
-<Atachment>Picture</Atachment>
+  <Summary>COVID-19 page: The blank page is opened from link 'Promotion' in the footer</Summary>
+  <STR>1. Open main page</STR>
+  <STR>2. Go to footer</STR>
+  <STR>3. In “Browse by Category” follow the link COVID-19</STR>
+  <STR>4. Go to footer COVID-19 page</STR>
+  <STR>5. In “Browse by Category” follow the link 'Promotion'</STR>
+  <Result>The Вlank page is opened</Result>
+  <Expected_result>The page of products with special offers is opened</Expected_result>
+  <Severity>Blocker</Severity>
+  <Priority>Medium</Priority>
+  <Environment>"Windows 10 Pro x64 Version 10.0.19044 Build 19044, Google Chrome v.98.0.4758.102 x64"</Environment>
+  <Reporter>Alex P</Reporter>
+  <Atachment>Picture</Atachment>
 </bug_report>
